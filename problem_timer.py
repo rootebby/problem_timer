@@ -31,7 +31,7 @@ while True:
         
         # Soru Sayısı #
         print("Kalan Süre 10 !!!")
-        time.sleep(0.5)
+        time.sleep(10)
         print("Süre Bitti !")
         soru += 1
         time.sleep(0.8)
